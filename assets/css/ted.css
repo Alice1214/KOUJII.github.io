@@ -1,0 +1,29 @@
+.dl-trigger{
+	display: none;
+}
+
+.reading-time{
+	display: none;
+}
+
+a.btn, a.zoombtn{
+	display: none;
+}
+
+span.social-share{
+	display: none !important;
+}
+
+footer{
+	display: none !important;
+}
+
+body{
+	background-color:rgba(255, 232, 209, 0.28) !important;
+	font-family:"微软雅黑";
+}
+
+blockquote{
+	font-style:normal !important;
+	color:#ada8a8 !important;
+}
