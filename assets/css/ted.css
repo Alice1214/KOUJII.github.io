@@ -20,13 +20,14 @@ footer{
 
 body{
 	background-color:#f8f8f2 !important;
-	font-family:"微软雅黑";
+	font-family:-apple-system-font,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif !important;
 }
 
 blockquote{
 	font-style:normal !important;
 	color:#6C7A89 !important;
 	border-color: #87adcc !important;
+	font-family:-apple-system-font,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif !important;
 }
 
 p{
@@ -45,4 +46,12 @@ h3{
 
 hr~p{
 	text-indent: 0 !important;
+}
+
+.content,p{
+	font-size:1.1rem !important;
+}
+
+a:link{
+	color: #87adcc !important;
 }
