@@ -41,7 +41,7 @@ h3{
 }
 
 .content>p{
-	text-indent: 2em;
+	/*text-indent: 2em;*/
 }
 
 hr~p{
